@@ -447,8 +447,6 @@ header{
 
 /* mobile */
 
-/* mobile */
-
 @media screen and (max-width:650px){
     header{
         padding: 0 10px;
@@ -500,7 +498,7 @@ header{
         width: 180px;
         height: 180px;
     }
-    .contact-section .img2{
+    .contact-section .img3{
         left: -40px;
         bottom: 0;
         width: 150px;
