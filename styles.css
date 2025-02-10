@@ -447,7 +447,9 @@ header{
 
 /* mobile */
 
-@media sceen and (max-width:650px){
+/* mobile */
+
+@media screen and (max-width:650px){
     header{
         padding: 0 10px;
     }
