@@ -79,7 +79,7 @@ header{
     left: 50px;
 }
 .hero-info h1{
-    font-size: 100px;
+    font-size: 120px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: 900;
     font-style: normal;
@@ -462,7 +462,7 @@ header{
         left: 5%;
     }
     .hero-section h1{
-        font-size: 90px;
+        font-size: 70px;
     }
     .next-btn{
         left: 25%;
